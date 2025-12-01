@@ -1,13 +1,6 @@
 <div align="center">
-# 🚀🧰 Go + Kubernetes + CI/CD + Helm — Learning Path & Roadmap
-
-## Hands-on 12-week plan to build production-grade Go microservices deployed with Kubernetes, Helm, and GitHub Actions.
-
-</div>
-
-<p align="center">
-  <img src="/Images/GoK8s.png" alt="Go + Kubernetes + CI/CD + Helm Learning Path" style="max-width:100%;height:auto;" />
-</p>
+<h1 align="center">🚀🧰 Go + Kubernetes + CI/CD + Helm — Learning Path & Roadmap</h1>
+<h3 align="center">Hands-on 12-week plan to build production-grade Go microservices deployed with Kubernetes, Helm, and GitHub Actions.</h3>
 <p align="center">
   <!-- Tech badges -->
   <img src="https://img.shields.io/badge/Go-1.22-blue?logo=go&logoColor=white" alt="Go" /> 
@@ -26,10 +19,9 @@
   <img src="https://img.shields.io/badge/SQLite-lightgray?logo=sqlite&logoColor=black" alt="SQLite" /> 
   <img src="https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white" alt="Docker Compose" />
 </p>
+</div>
 
-### Tags
-
-#go #golang #kubernetes #helm #docker #github-actions #ci-cd #postgresql #redis #rabbitmq #grpc #prometheus #grafana #opentelemetry #argocd #microservices #observability #docker-compose #minikube #kind #sqlite #makefile #git
+![Banner](/Images/GoK8s.png)
 
 ## 🚀 Overview
 

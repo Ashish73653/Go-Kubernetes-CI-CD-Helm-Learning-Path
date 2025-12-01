@@ -1,7 +1,11 @@
-<p align="center">
+<div align="center">
   # 🚀🧰 Go + Kubernetes + CI/CD + Helm — Learning Path & Roadmap
-  Hands-on 12-week plan to build production-grade Go microservices deployed with Kubernetes, Helm, and GitHub Actions.
-  ---
+
+### Hands-on 12-week plan to build production-grade Go microservices deployed with Kubernetes, Helm, and GitHub Actions.
+
+</div>
+
+<p align="center">
   <img src="/Images/GoK8s.png" alt="Go + Kubernetes + CI/CD + Helm Learning Path" style="max-width:100%;height:auto;" />
 </p>
 <p align="center">
